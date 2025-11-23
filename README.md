@@ -98,3 +98,7 @@ GitHub: https://github.com/asilgumus
 ⭐ Support
 
 If you like the project, please give the repo a ⭐.
+
+📄 License
+
+This project is licensed under the MIT License
